@@ -1,0 +1,20 @@
+{
+  "name": "pet-boutique",
+  "version": "1.0.0",
+  "description": "simple node project to connect to our pet boutique database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pets",
+    "mysql",
+    "boutique",
+    "sample"
+  ],
+  "author": "Todd Albert",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
